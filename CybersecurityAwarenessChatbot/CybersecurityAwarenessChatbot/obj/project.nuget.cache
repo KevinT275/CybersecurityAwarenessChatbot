@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGRy4KwovQs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The boys\\source\\repos\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot\\CybersecurityAwarenessChatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The boys\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512",
+    "C:\\Users\\The boys\\.nuget\\packages\\system.windows.extensions\\10.0.5\\system.windows.extensions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
